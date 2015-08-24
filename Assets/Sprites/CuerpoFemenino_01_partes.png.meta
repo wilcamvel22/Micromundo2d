@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: bec98af53a2fd59479c8e69030c440da
+timeCreated: 1440002064
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tronco
+    21300002: Pierna
+    21300004: CuerpoFemenino_01_partes_3
+    21300006: CuerpoFemenino_01_partes_4
+    21300008: Rostro
+    21300010: Cabello
+    21300012: CuerpoFemenino_01_partes_7
+    21300014: CuerpoFemenino_01_partes_8
+    21300016: CuerpoFemenino_01_partes_9
+    21300018: CuerpoFemenino_01_partes_10
+    21300020: CuerpoFemenino_01_partes_11
+    21300022: Brazo
+    21300024: CuerpoFemenino_01_partes_13
+    21300026: CuerpoFemenino_01_partes_14
+    21300028: Mano
+    21300030: CuerpoFemenino_01_partes_16
+    21300032: Pie
+    21300034: Brazo_Der_1
+    21300036: Brazo_Der_2
+    21300038: Brazo_Der_4
+    21300040: Brazo_Der_3
+    21300042: Nuca
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rostro
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1011
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cabello
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1004
+        width: 167
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 524
+        width: 96
+        height: 413
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mano
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 468
+        width: 50
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pie
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 15
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tronco
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 631
+        width: 259
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 70
+        width: 142
+        height: 560
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuca
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1009
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

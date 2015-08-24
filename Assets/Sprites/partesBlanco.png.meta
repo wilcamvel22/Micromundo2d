@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: ba3dd663c8cb2c5459decf9eed958bee
+timeCreated: 1436991192
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TerritorioGris
+    21300002: Ficha6
+    21300004: Ficha1
+    21300006: Ficha9
+    21300008: Ficha4
+    21300010: Ficha8
+    21300012: Ficha10
+    21300014: Ficha5
+    21300016: Ficha11
+    21300018: Ficha3
+    21300020: Ficha7
+    21300022: Ficha2
+    21300024: Ficha12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TerritorioGris
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 971
+        width: 840
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 159
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 701
+        width: 169
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 756
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 786
+        width: 114
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 768
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 518
+        width: 162
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 535
+        width: 216
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 522
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 329
+        width: 152
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 324
+        width: 224
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 341
+        width: 282
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ficha12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 567
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

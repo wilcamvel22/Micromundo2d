@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 094b3e83110f1f949adfa33dc1b4b7c9
+timeCreated: 1437583210
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M+k_Maqueta
+    21300002: M+k_Cabello
+    21300004: M+k_Cuello
+    21300006: M+k_Rostro
+    21300008: M+k_Brazo_Der
+    21300010: M+k_Brazo_Izq
+    21300012: M+k_Mano_Der
+    21300014: M+k_Pierna_Der
+    21300016: M+k_Mano_Izq
+    21300018: M+k_Tronco
+    21300020: M+k_Pie_Der
+    21300022: M+k_Pie_Izq
+    21300024: M+k_Pierna_Izq
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M+k_Maqueta
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 332
+        height: 848
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Cabello
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 804
+        width: 116
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Cuello
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 819
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Rostro
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 768
+        width: 120
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Brazo_Der
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 528
+        width: 86
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Brazo_Izq
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 551
+        width: 135
+        height: 207
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Mano_Der
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 359
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Pierna_Der
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 125
+        width: 76
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Mano_Izq
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 405
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Tronco
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 8
+        width: 130
+        height: 302
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Pie_Der
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Pie_Izq
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M+k_Pierna_Izq
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 26
+        width: 66
+        height: 366
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
